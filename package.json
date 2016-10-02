@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-aifejs",
+  "version": "1.0.0",
+  "description": "eslint config common for aifejs project",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Konstantin Kitmanov <doctor.hogart@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-yandex": "^1.0.6"
+  }
+}
